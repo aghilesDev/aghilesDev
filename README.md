@@ -1,90 +1,18 @@
-## Welcome to My GitHub Profile
+<h1 align="center">Hi 👋, I'm Aghiles</h1>
+<h3 align="center">I am a Full Stack developer and problem solver</h3>
 
 I'm a passionate IT professional with a strong background in computer systems and software engineering. I thrive in dynamic environments and excel under pressure, thanks to my adaptability and problem-solving skills. I'm a dedicated team player, and my motto is "Work smart" – I'm committed to delivering optimal outcomes through innovative approaches.
 
-### Education
-- **Master in Computer Systems Security**
-  - Houari Boumediene University of Science and Technology, Algeria
-  - 2017 - 2019
+- 🌱 I’m currently learning **AWS**
 
-- **Bachelor in Computer Systems and Software Engineering**
-  - Houari Boumediene University of Science and Technology, Algeria
-  - 2014 - 2017
+- 📫 How to reach me **aghiles.goumeziane.dev@gmail.com**
 
-### Experience
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-#### Full Stack Developer Freelance
-- Montreal, QC
-- **Freelancer** | October 2022 - Current
-  - Conducted in-depth analysis of client requirements and translated them into comprehensive specifications.
-  - Designed and implemented customized web solutions using a range of technologies.
-  - Deployed solutions using Docker for efficiency and scalability.
-  - Utilized Git for version control and collaborative development.
-  - Provided ongoing website maintenance and support, ensuring optimal performance and security.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-#### Full Stack Developer
-- Montreal, QC
-- **ACME Engineering Prod. Ltd.** | February 2020 - October 2022
-  - Led a critical project focused on optimizing a resource-intensive HVAC web application.
-  - Implemented procedures for smoother data synchronization, reducing processor load.
-  - Redesigned the communication layer, resulting in a 75% reduction in server resource consumption.
-  - Developed efficient production environment configuration scripts.
-  - Conducted comprehensive unit and integration tests following Agile methodologies.
-
-#### Android Developer Intern
-- Algeria, DZ
-- **CNEP-BANQUE** | February 2017 - June 2017
-  - Collaborated on an e-banking application, contributing to architectural and detailed design phases.
-  - Developed the mobile application using the MVP pattern and clean architecture principles.
-  - Contributed to testing activities to ensure application reliability.
-
-### Skills
-
-#### Programming Languages
-- Python (Asyncio)
-- JavaScript (Angular/Node.js)
-- Java (Java Android)
-- PL/SQL
-- HTML/CSS
-- C/C++
-- Bash
-- C#
-
-#### Technologies
-- CI/CD
-- Docker
-- Git
-- REST API
-- IoT
-- Blockchain
-- Virtualization Technology
-- Linux (Ubuntu)
-- Windows
-
-#### Languages
-- French (Fluent)
-- English (Fluent)
-- Kabyle (Fluent)
-- Arabic (Basic)
-
-#### Network
-- TCP/IP
-- VPN
-- Telnet/SSH
-- SSL/TLS
-- VLAN
-- OSPF
-- RIP
-
-### Projects
-
-#### Client/Server Authentication based Blockchain
-- [GitHub Repository](https://github.com/AGHiLESDEV/BAIIOT-PROJECT)
-  - Designed and implemented a client/server authentication protocol using Python, Flask, and blockchain technology.
-  - Integrated Web3.py for secure transactions and interaction with the blockchain network.
-  - Utilized design patterns (Repository, Factory, Unit of Work) for modularity and maintainability.
-  - Employed SQLAlchemy for efficient database management and persistence.
-  - Developed smart contracts using Ethereum and Solidity for secure authentication.
-  - Leveraged PostgreSQL as the underlying database for authentication data.
 
 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out to me for any inquiries or opportunities.
